@@ -72,6 +72,7 @@ Thank you for taking the time to learn a little bit about me. I am enthusiastic 
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nelsonmenza&theme=dark)](https://git.io/streak-stats)
+(<br>)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nelsonmenza&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
