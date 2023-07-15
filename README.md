@@ -72,7 +72,8 @@ Thank you for taking the time to learn a little bit about me. I am enthusiastic 
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nelsonmenza&theme=highcontrast&card_width=496)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nelsonmenza&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nelsonmenza&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **nelsonmenza/nelsonmenza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
