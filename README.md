@@ -71,8 +71,9 @@ Thank you for taking the time to learn a little bit about me. I am enthusiastic 
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nelsonmenza&theme=transparent&card_width=496)](https://git.io/streak-stats)
-
+<div align="center">
+    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nelsonmenza&theme=highcontrast&card_width=496)](https://git.io/streak-stats)
+</div>
 
 <!--
 **nelsonmenza/nelsonmenza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
