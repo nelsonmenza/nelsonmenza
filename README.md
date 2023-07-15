@@ -31,23 +31,21 @@
 
 I'm a self-taught learner from the Dominican Republic, currently living in the United States. I made the decision to change my career path and pursue my passion as a full-stack developer.
 
-## Background
-
 I have a solid foundation in IT due to my high school education, which focused on information technology. Additionally, I have experience working as an electrical technician, specifically in the area of Programmable Logic Controllers (PLCs). This role has provided me with valuable troubleshooting skills and practical problem-solving experience.
 
-## Availability and Language Skills
+### Availability and Language Skills
 
 - :telescope: I’m currently not employed, which allows me to fully dedicate my time and energy to continue growing as a developer.
 - :speech_balloon: While English is not my native language, I am proficient in reading, writing, and expressing myself in English. I continue to learn and improve my English skills. Spanish is my native language.
 
-## Learning and Portfolio
+### Learning and Portfolio
 
 - :seedling: During my free time, I am devoted to studying new concepts, solving coding problems, and building my portfolio.
 - :zap: I believe that continuous learning is essential to keep up with the ever-changing technology landscape and stay ahead of the curve.
 
-## Contact Me
+### Contact Me
 
-- :mailbox: If you would like to connect or discuss any opportunities, please feel free to reach out to me on [LinkedIn](your_linkedin_profile_url). I am always excited to engage with fellow developers, share ideas, and explore potential collaborations.
+- :mailbox: If you would like to connect or discuss any opportunities, please feel free to reach out to me on [![Linkedin Badge](https://img.shields.io/badge/-Nelson-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nelsonmenza/). I am always excited to engage with fellow developers, share ideas, and explore potential collaborations.
 
 Thank you for taking the time to learn a little bit about me. I am enthusiastic about the journey ahead as a full-stack developer and eager to contribute to the world of technology! Welcome to my GitHub profile! Feel free to check out my repositories based on my learning path.
 
