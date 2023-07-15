@@ -67,6 +67,13 @@ Thank you for taking the time to learn a little bit about me. I am enthusiastic 
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nelsonmenza&theme=transparent&card_width=496)](https://git.io/streak-stats)
+
+
 <!--
 **nelsonmenza/nelsonmenza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
