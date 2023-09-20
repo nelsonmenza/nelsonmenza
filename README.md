@@ -27,27 +27,32 @@
 
 ---
 
-### :man_technologist: About Me :
+👨‍💻 **About Me**:
 
-I'm a self-taught learner from the Dominican Republic, currently living in the United States. I made the decision to change my career path and pursue my passion as a full-stack developer.
+I'm a self-taught learner from the Dominican Republic, currently residing in the United States. With a strong foundation in IT from my high school education and hands-on experience as an electrical technician, specializing in Programmable Logic Controllers (PLCs), I've honed valuable troubleshooting skills and practical problem-solving expertise.
 
-I have a solid foundation in IT due to my high school education, which focused on information technology. Additionally, I have experience working as an electrical technician, specifically in the area of Programmable Logic Controllers (PLCs). This role has provided me with valuable troubleshooting skills and practical problem-solving experience.
+🔌 **Technical Focus**:
 
-### Availability and Language Skills
+While initially pursuing full-stack development, I've realized my passion lies in backend development. Nonetheless, I'm committed to gaining a comprehensive understanding of how front-end development works. This journey has been an exciting exploration of both ends of the technology spectrum.
 
-- :telescope: I’m currently not employed, which allows me to fully dedicate my time and energy to continue growing as a developer.
-- :speech_balloon: While English is not my native language, I am proficient in reading, writing, and expressing myself in English. I continue to learn and improve my English skills. Spanish is my native language.
+📚 **Learning and Portfolio**:
 
-### Learning and Portfolio
+- 🌱 Currently, I'm immersed in learning the intricacies of Django, a powerful Python backend framework, as well as I'm currently in the early stages of learning SQL and JavaScript, two essential components of modern web development.
+- 🛠️ This journey involves creating practical projects that not only showcase my skills but also demonstrate my passion for solving real-world problems through technology.
+- ⚡ I firmly believe that continuous learning is indispensable in navigating the ever-evolving technology landscape and staying at the forefront of the field.
 
-- :seedling: During my free time, I am devoted to studying new concepts, solving coding problems, and building my portfolio.
-- :zap: I believe that continuous learning is essential to keep up with the ever-changing technology landscape and stay ahead of the curve.
+Feel free to check out my GitHub repositories based on my learning path, which will reflect my progress in these exciting technologies.
 
-### Contact Me
+📚 **Learning and Portfolio**:
 
-- :mailbox: If you would like to connect or discuss any opportunities, please feel free to reach out to me on [![Linkedin Badge](https://img.shields.io/badge/-Nelson-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nelsonmenza/). I am always excited to engage with fellow developers, share ideas, and explore potential collaborations.
+- 🌱 During my free time, I immerse myself in studying new concepts, tackling coding challenges, and expanding my project portfolio.
+- ⚡ I firmly believe that continuous learning is indispensable in navigating the ever-evolving technology landscape and staying at the forefront of the field.
 
-Thank you for taking the time to learn a little bit about me. I am enthusiastic about the journey ahead as a full-stack developer and eager to contribute to the world of technology! Welcome to my GitHub profile! Feel free to check out my repositories based on my learning path.
+✉️ **Contact Me**:
+
+- 📬 If you'd like to connect or discuss potential opportunities, please don't hesitate to reach out to me on [![Linkedin Badge](https://img.shields.io/badge/-Nelson-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nelsonmenza/). I'm always thrilled to engage with fellow developers, exchange ideas, and explore potential collaborations.
+
+🙏 Thank you for taking the time to get to know me a little better. I'm genuinely enthusiastic about the journey ahead as a full-stack developer and eager to contribute to the world of technology! Welcome to my GitHub profile, where you can explore my repositories based on my continuous learning path.
 
 ---
 
